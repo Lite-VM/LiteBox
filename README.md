@@ -5,7 +5,7 @@
 
 一键运行脚本
 ```
- wget -O LiteBox https://raw.githubusercontent.com/lite-vm/v2ray/main/LiteBox && chmod +x LiteBox && ./LiteBox 
+ wget -O LiteBox https://raw.githubusercontent.com/lite-vm/LiteBox/main/LiteBox && chmod +x LiteBox && ./LiteBox 
 ```
 安装节点后自动生成相应的链接以及二维码可直接用于导入
 
